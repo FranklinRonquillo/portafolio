@@ -1,0 +1,43 @@
+.menu {
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+div a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+div a:hover {
+    background-color: rgb(61, 61, 61);
+    color: white;
+    border: 1px solid white;
+}
+
+body {
+    background-color: rgb(240, 240, 240);
+    max-width: 850px;
+    margin: auto;
+}
+
+.top {
+    display: flex;
+    align-items: center;
+    background-color: rgb(133, 133, 133);
+}
+
+.personal {
+    padding-inline: 20px;
+}
