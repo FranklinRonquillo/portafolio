@@ -41,3 +41,17 @@ body {
 .personal {
     padding-inline: 20px;
 }
+
+.lista {
+    display: flex;
+    justify-content: space-between;
+}
+
+h4 {
+    margin-bottom: 0px;
+    border: 1px solid black;
+}
+
+li {
+    border: 1px solid black;
+}
