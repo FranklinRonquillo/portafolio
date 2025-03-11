@@ -36,6 +36,8 @@ body {
     display: flex;
     align-items: center;
     background-color: rgb(133, 133, 133);
+    border-radius: 25px;
+    padding-left: 20px;
 }
 
 .personal {
